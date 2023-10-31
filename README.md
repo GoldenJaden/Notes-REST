@@ -6,8 +6,8 @@
 
 ## Endpoints
 
-* GET ```/api/v1/notes``` - Получить список заметок.
-* POST ```/api/v1/notes``` - Создать заметку.
+* GET ```/api/v1/notes/``` - Получить список заметок.
+* POST ```/api/v1/notes/``` - Создать заметку.
 
 * GET ```/api/v1/notes/<int:pk>/``` - Получить заметку по id.
 * DELETE ```/api/v1/notes/<int:pk>/``` - Удалить заметку по id.
